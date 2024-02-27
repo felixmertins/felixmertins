@@ -10,7 +10,7 @@
 
 ### My Skills
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,docker,discord,nodejs,python,mysql,java,haskell,prolog,c)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,nodejs,php,java,haskell,c,python,mysql,docker,discord)
 
 ### My Stats
 
