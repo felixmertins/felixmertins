@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1500&random=false&width=435&height=30&lines=Hi!++I'm+Felix+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+CS+Student+%F0%9F%9A%80;Feel+free+to+contact+me+%F0%9F%A4%9D)
 
 - 👋 Hi, I’m @felixmertins
-- 🤏 18 Years old
+- 🤏 19 Years old
 - 🗨️ Languages: 
     - <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="12"> English
     - <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="12"> German
