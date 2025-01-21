@@ -14,7 +14,7 @@
 
 ### My Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=felixmertins&theme=github-dark-blue&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=felixmertins&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 #### Activity Last 7 Days
 
